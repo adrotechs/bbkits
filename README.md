@@ -1,6 +1,6 @@
 # ADROTECHS BREAKOUT BOARDS
 
-## Atmel MCU
+## ATMEL MCU
 
 ### Tiny Series
 <hr>
