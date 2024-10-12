@@ -1,4 +1,6 @@
-# ADROTECHS BREAKOUT BOARDS
+# **ADROTECHS BBKITS**
+> ADROTECHS BBKITS are breakout boards for MCUs without DIP packages for prototyping. These boards convert surface-mount designs to breadboard-friendly designs. All the boards are pre-loaded with factory firmware.
+
 
 ## ATMEL MCU
 
